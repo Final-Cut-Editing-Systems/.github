@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Final-Cut-Editing-Systems/Final-Cut-Editing-Systems">
-    <img src="https://www.apple.com/newsroom/images/logos/quick-reads-logos/Apple-Final-Cut-Pro.jpg.og.jpg?202508291920" width="150" alt="Final Cut Logo">
+    <img src="https://www.apple.com/newsroom/images/logos/quick-reads-logos/Apple-Final-Cut-Pro.jpg.og.jpg?202508291920" width="888" alt="Final Cut Logo">
   </a>
 </p>
 
